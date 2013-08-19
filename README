@@ -1,9 +1,15 @@
-.skel
-=====
+fisheye_on_driveway
+===================
 
-This is a skeleton project.  It needs better documentation.
+Another OpenSCAD quickie: a new housing for a little cheapy webcam,
+including a mounting point for a cheap phonecamera fisheye lens.  The
+piece is designed to be fit together with a couple of M4x20mm bolts,
+then screwed down to a wall.
 
-Contents:
+There are three pieces:
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+The mounting plate, with slots for the nuts and holes for the screws
+
+The main body, with a hole for the USB cable and lens mounting aperture
+
+The lens coupler, which sits inside the main body.
